@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Egg Game</string>
+    <string name="button_reset_label">Reset</string>
+    <string name="button_take_3_label">Take 3</string>
+    <string name="button_take_2_label">Take 2</string>
+    <string name="button_take_1_label">Take 1</string>
+    <string name="player_turn">Player 1\'s Turn</string>
+    <string name="counter_remaining">23</string>
+    <string name="eggs_remaining">Eggs Remaining:</string>
+    <string name="toast_warning">Not enough eggs to perform this.</string>
+    <string name="button_help_label">Help</string>
+    <string name="toast_help">The goal of the game is to be the last one to take eggs. Take turns taking eggs, the game ends when the last egg has been taken.</string>
+</resources>

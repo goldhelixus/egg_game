@@ -1,0 +1,7 @@
+- Added horizontal layout
+- Added Help Button
+- Altered color scheme
+- Added animations
+
+Bug Fix:
+- Horizontal Animation bug (Fixed)
